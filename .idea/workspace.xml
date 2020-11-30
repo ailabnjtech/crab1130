@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1fe4524-04e8-427f-8fb1-81c638a70c35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1j015GxInEOaarS3DaMv5C08kno" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.indicate_dot">
+    <configuration name="all_yolo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xinlixun" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/all_yolo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="indicate_dot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xinlixun" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/indicate_dot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="orb-det" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xinlixun" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orb-det.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for orb_sobel.test_sobel" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="xinlixun" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;orb_sobel.test_sobel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in orb_sobel.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="xinlixun" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/orb_sobel.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.indicate_dot" />
+        <item itemvalue="Python.orb-det" />
+        <item itemvalue="Python tests.pytest in orb_sobel.py" />
+        <item itemvalue="Python.all_yolo" />
+        <item itemvalue="Python tests.pytest for orb_sobel.test_sobel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1fe4524-04e8-427f-8fb1-81c638a70c35" name="Default Changelist" comment="" />
+      <created>1602926009252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602926009252</updated>
+      <workItem from="1602926014526" duration="11261000" />
+      <workItem from="1603033259163" duration="794000" />
+      <workItem from="1603076290442" duration="2623000" />
+      <workItem from="1603156397371" duration="12033000" />
+      <workItem from="1603198885422" duration="1145000" />
+      <workItem from="1603202498210" duration="551000" />
+      <workItem from="1603244575736" duration="906000" />
+      <workItem from="1603260682985" duration="612000" />
+      <workItem from="1603281621891" duration="1656000" />
+      <workItem from="1603335399781" duration="1262000" />
+      <workItem from="1603353104520" duration="599000" />
+      <workItem from="1603361582646" duration="620000" />
+      <workItem from="1603417748210" duration="2329000" />
+      <workItem from="1603456857630" duration="1638000" />
+      <workItem from="1603592955978" duration="3162000" />
+      <workItem from="1603622574512" duration="1408000" />
+      <workItem from="1603710929637" duration="3374000" />
+      <workItem from="1603762179504" duration="932000" />
+      <workItem from="1603776454193" duration="1267000" />
+      <workItem from="1603798227065" duration="631000" />
+      <workItem from="1604023869214" duration="1227000" />
+      <workItem from="1604026655924" duration="2844000" />
+      <workItem from="1604213928087" duration="2892000" />
+      <workItem from="1604235683794" duration="1491000" />
+      <workItem from="1604282958394" duration="1873000" />
+      <workItem from="1604315490680" duration="5902000" />
+      <workItem from="1604389891333" duration="1211000" />
+      <workItem from="1604401079844" duration="9334000" />
+      <workItem from="1604469660537" duration="2406000" />
+      <workItem from="1604581705725" duration="3646000" />
+      <workItem from="1604631881192" duration="2572000" />
+      <workItem from="1605018311011" duration="1222000" />
+      <workItem from="1605182946247" duration="2728000" />
+      <workItem from="1605231456834" duration="4742000" />
+      <workItem from="1605492394807" duration="3835000" />
+      <workItem from="1605525885881" duration="721000" />
+      <workItem from="1605597769310" duration="3288000" />
+      <workItem from="1605616126932" duration="3576000" />
+      <workItem from="1605675612397" duration="1570000" />
+      <workItem from="1605783375333" duration="2621000" />
+      <workItem from="1605839006377" duration="862000" />
+      <workItem from="1606046645810" duration="3054000" />
+      <workItem from="1606220148924" duration="654000" />
+      <workItem from="1606378542537" duration="732000" />
+      <workItem from="1606461950977" duration="2343000" />
+      <workItem from="1606527125581" duration="10407000" />
+      <workItem from="1606628317855" duration="4364000" />
+      <workItem from="1606703902191" duration="236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606635338796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603361599459" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606635338796" />
+    <state width="1877" height="299" key="GridCell.Tab.0.bottom" timestamp="1606638920440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="244" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603198849543" />
+    <state width="1877" height="299" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606638920440" />
+    <state width="1877" height="299" key="GridCell.Tab.0.center" timestamp="1606638920440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="244" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603198849543" />
+    <state width="1877" height="299" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606638920440" />
+    <state width="1877" height="299" key="GridCell.Tab.0.left" timestamp="1606638920439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="244" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603198849543" />
+    <state width="1877" height="299" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606638920439" />
+    <state width="1877" height="299" key="GridCell.Tab.0.right" timestamp="1606638920440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="244" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603198849543" />
+    <state width="1877" height="299" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606638920440" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1606053632800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606053632800" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1606053632800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606053632800" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1606053632800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606053632800" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1606053632800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606053632800" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1606635290977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606635290977" />
+    <state x="561" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1606704106376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603361587255" />
+    <state x="561" y="298" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606704106376" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/xinlixun$sobel.coverage" NAME="新立讯sobel Coverage Results" MODIFIED="1602927964114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/xinlixun$indicate_dot.coverage" NAME="indicate_dot Coverage Results" MODIFIED="1606631702267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$one_one_yolo.coverage" NAME="one-one yolo Coverage Results" MODIFIED="1602939655734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$one_all.coverage" NAME="one-all Coverage Results" MODIFIED="1604320860957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$1113yolo_oneone.coverage" NAME="1113yolo-oneone Coverage Results" MODIFIED="1605602004397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$lvbo.coverage" NAME="lvbo Coverage Results" MODIFIED="1603182439693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$19ceshi.coverage" NAME="19ceshi Coverage Results" MODIFIED="1604026713833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$1102all_allorb.coverage" NAME="1102all_allorb Coverage Results" MODIFIED="1604411517803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$all_yolo_abs.coverage" NAME="all_yolo_abs Coverage Results" MODIFIED="1603182906539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$1104all_allorb.coverage" NAME="1104all_allorb Coverage Results" MODIFIED="1605019434362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$orb_det.coverage" NAME="orb-det Coverage Results" MODIFIED="1606628523020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$all_yolo.coverage" NAME="all_yolo Coverage Results" MODIFIED="1605786602017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$1113yolo.coverage" NAME="1113yolo Coverage Results" MODIFIED="1605232678367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$sobel_all.coverage" NAME="新立讯sobel all Coverage Results" MODIFIED="1602927624817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pic_xinlixun/no_cut" />
+    <SUITE FILE_PATH="coverage/xinlixun$pytest_for_orb_sobel_test_sobel.coverage" NAME="pytest for orb_sobel.test_sobel Coverage Results" MODIFIED="1605617249209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$ORB.coverage" NAME="新立讯ORB Coverage Results" MODIFIED="1604321377779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/xinlixun$one_one.coverage" NAME="one-one Coverage Results" MODIFIED="1605233139746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$pytest_in_orb_sobel_py.coverage" NAME="pytest in orb_sobel.py Coverage Results" MODIFIED="1606533274443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xinlixun$1102one_all.coverage" NAME="1102one-all Coverage Results" MODIFIED="1605495224808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
